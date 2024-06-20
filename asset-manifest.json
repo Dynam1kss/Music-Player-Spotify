@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Music-Player-Spotify/static/css/main.d5289b2f.css",
+    "main.js": "/Music-Player-Spotify/static/js/main.b9c53bbb.js",
+    "index.html": "/Music-Player-Spotify/index.html",
+    "main.d5289b2f.css.map": "/Music-Player-Spotify/static/css/main.d5289b2f.css.map",
+    "main.b9c53bbb.js.map": "/Music-Player-Spotify/static/js/main.b9c53bbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.b9c53bbb.js"
+  ]
+}
